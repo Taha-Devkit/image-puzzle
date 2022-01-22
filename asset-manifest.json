@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/image-puzzle/static/css/main.07b8d898.chunk.css",
-    "main.js": "/image-puzzle/static/js/main.05b777bc.chunk.js",
-    "main.js.map": "/image-puzzle/static/js/main.05b777bc.chunk.js.map",
-    "runtime-main.js": "/image-puzzle/static/js/runtime-main.267a3304.js",
-    "runtime-main.js.map": "/image-puzzle/static/js/runtime-main.267a3304.js.map",
-    "static/js/2.20e4295c.chunk.js": "/image-puzzle/static/js/2.20e4295c.chunk.js",
-    "static/js/2.20e4295c.chunk.js.map": "/image-puzzle/static/js/2.20e4295c.chunk.js.map",
-    "static/js/3.8ca60ffd.chunk.js": "/image-puzzle/static/js/3.8ca60ffd.chunk.js",
-    "static/js/3.8ca60ffd.chunk.js.map": "/image-puzzle/static/js/3.8ca60ffd.chunk.js.map",
+    "main.css": "/image-puzzle/static/css/main.918bd6b9.css",
+    "main.js": "/image-puzzle/static/js/main.f2bdf38b.js",
+    "static/js/787.2913ca3c.chunk.js": "/image-puzzle/static/js/787.2913ca3c.chunk.js",
     "index.html": "/image-puzzle/index.html",
-    "static/css/main.07b8d898.chunk.css.map": "/image-puzzle/static/css/main.07b8d898.chunk.css.map",
-    "static/js/2.20e4295c.chunk.js.LICENSE.txt": "/image-puzzle/static/js/2.20e4295c.chunk.js.LICENSE.txt"
+    "main.918bd6b9.css.map": "/image-puzzle/static/css/main.918bd6b9.css.map",
+    "main.f2bdf38b.js.map": "/image-puzzle/static/js/main.f2bdf38b.js.map",
+    "787.2913ca3c.chunk.js.map": "/image-puzzle/static/js/787.2913ca3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.267a3304.js",
-    "static/js/2.20e4295c.chunk.js",
-    "static/css/main.07b8d898.chunk.css",
-    "static/js/main.05b777bc.chunk.js"
+    "static/css/main.918bd6b9.css",
+    "static/js/main.f2bdf38b.js"
   ]
 }
